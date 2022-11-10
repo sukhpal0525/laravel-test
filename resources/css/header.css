@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+
+.navbar {
+  background-color: #000000;
+  color: #000000;
+}
+li, a, button {
+  font-weight: 500;
+  font-size: 16px;
+  color: #EDF0F1;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
